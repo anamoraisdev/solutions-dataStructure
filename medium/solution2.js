@@ -1,6 +1,5 @@
 //problema da letra mais frequente
 const entrada = "asl;dzc]ewa;d]sd.vcxhkjasdfa]]bkjolnnopuibuiopjl;";
-
 const calcularFrequencia = (value) => {
     const caracteres = [";", "[", "]", "{", "}", "*", ",", "#", "%", "&", "$", "."]
     const strings = value.toLowerCase().split('');
