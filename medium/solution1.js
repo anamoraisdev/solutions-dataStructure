@@ -28,11 +28,3 @@ const lerSequencias = (n, arr) => {
 
 lerSequencias(4, arrayEntrada)
 
-
-// Saída esperada 
-
-//0 34 53 55 87
-//82 61 21 9 8
-//1 10 78 80 99
-//78 71 43 23 4
-
